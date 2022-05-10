@@ -1,0 +1,18 @@
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-weight: darker;
+
+}
+
+#chicken-plate {
+    width: 340px;
+    height: auto;
+}
+
+li {
+    font-size: 20px
+}
+
+p {
+    font-size: 24px;
+}
